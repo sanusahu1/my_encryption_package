@@ -1,6 +1,6 @@
 # my_encryption_package
 This a encryption package to provide security for the data stord in database 
-
+you can use it as given bellow ->
 const Encryption = require('my-encryption-package');
 
 // Replace 'your-secret-key' with your actual secret key
