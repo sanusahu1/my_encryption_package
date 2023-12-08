@@ -1,11 +1,11 @@
 {
   "name": "my-encryption-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple encryption package",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
-  },  
+  },
   "keywords": [
     "encryption",
     "crypto"
